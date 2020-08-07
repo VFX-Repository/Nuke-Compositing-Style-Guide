@@ -2,7 +2,7 @@
 
 This style guide is an attempt to standardize compositing practices.
 
-Borrowing from python; the "The Zen of Compositing"
+### "The Zen of Compositing"
 
 
 >Explicit is better than implicit.  
